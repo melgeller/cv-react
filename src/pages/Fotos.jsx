@@ -23,9 +23,9 @@ const Fotos = () => {
     </div>
     <div className='tarjeta'>
     <img src="../../assets/sergio1.jpg" alt=""/>
+    </div>
     <div className='tarjeta'>
     <img src="../../assets/anal2.jpg" alt=""/>
-    </div>
     </div>
     <div className='tarjeta'>
     <img src="../../assets/sergio2.jpg" alt=""/>
