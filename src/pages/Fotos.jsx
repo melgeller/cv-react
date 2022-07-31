@@ -7,34 +7,34 @@ const Fotos = () => {
     <div className='galeria2'>
     
     <div className='tarjeta'>
-    <img src="../../assets/fer1.jpg" alt="fer"/>
+    <img src="../../assets/fer1.jpg" alt=""/>
     </div>
     <div className='tarjeta'>
-    <img src="../../assets/anal2.jpg" alt="fer"/>
+    <img src="../../assets/anal2.jpg" alt=""/>
     </div>
     <div className='tarjeta'>
-    <img src="../../assets/nuri1.png" alt="nur"/>
+    <img src="../../assets/nuri1.png" alt=""/>
     </div>
     <div className='tarjeta'>
-    <img src="../../assets/fotoflor.jpg" alt="nur"/>
+    <img src="../../assets/fotoflor.jpg" alt=""/>
     </div>
     <div className='tarjeta'>
-    <img src="../../assets/aitana2.jpg" alt="nur"/>
+    <img src="../../assets/aitana2.jpg" alt=""/>
     </div>
     <div className='tarjeta'>
-    <img src="../../assets/sergio1.jpg" alt="nur"/>
+    <img src="../../assets/sergio1.jpg" alt=""/>
     </div>
     <div className='tarjeta'>
-    <img src="../../assets/sergio2.jpg" alt="nur"/>
+    <img src="../../assets/sergio2.jpg" alt=""/>
     </div>
     <div className='tarjeta'>
-    <img src="../../assets/anal4.jpg" alt="nur"/>
+    <img src="../../assets/anal4.jpg" alt=""/>
     </div>
     <div className='tarjeta'>
-    <img src="../../assets/playa.jpg" alt="nur"/>
+    <img src="../../assets/playa.jpg" alt=""/>
     </div>
     <div className='tarjeta'>
-    <img src="../../assets/anal3.jpg" alt="nur"/>
+    <img src="../../assets/anal3.jpg" alt=""/>
     </div>
     </div>
 
