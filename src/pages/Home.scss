@@ -1,3 +1,5 @@
+
+
 .todoHome{
     width: 100%;
     height: 100vh;
@@ -8,5 +10,27 @@
     background-size: cover ;
     background-position: center;
     margin-top: -50px;
+}
 
+.texto{
+    color: whitesmoke;
+    text-align: center;
+    h2{
+        animation: fadeInLeft;
+        animation-duration: 0.5s;
+        margin: 0;
+        font-weight: 300;
+
+
+    }
+    h1{
+        font-size: 80px;
+        font-family: 'Homemade Apple', cursive;
+        margin: 0;
+    }
+    h3{
+        animation: fadeInLeft;
+        animation-duration: 1s;
+        
+    }
 }

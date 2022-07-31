@@ -1,0 +1,30 @@
+.galeria{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    
+    .galeria2{
+        width: 60%;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+        gap: 30px;
+        
+    }
+    .tarjeta{
+        margin-top: 20px;
+        animation: fadeInLeft;
+        animation-duration: 1s;
+        img{
+            max-height: 300px;
+            cursor: pointer;
+            
+        }
+        &:hover{
+            opacity: .5;
+            transition: 1s;
+        }
+    }
+}
