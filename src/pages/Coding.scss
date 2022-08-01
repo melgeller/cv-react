@@ -1,34 +1,55 @@
-.codingGallery{
-    margin: 50px;
-    @media (max-width: 600px) {
-        margin: 20px;
-      }
-    .codingCards{
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: space-around;
-        gap: 20px;
+.codingGallery {
+  margin: 50px;
+  padding-bottom: 50px;
+  font-family: 'Assistant', sans-serif;
+  @media (max-width: 600px) {
+    margin: 20px;
+  }
+  .codingCards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 20px;
 
-        .cardsC{
-            
-            img{
-                width: 700px;
-                @media (max-width: 600px) {
-                    width: 100%;
-                  }
-            }
-            .textoCoding{
-               display: flex;
-               align-items: center;
-               gap: 20px;
-               .unico{
-                width: 20px;
-               } 
-                img{
-                    width: 30px;
-                    
-                }
-            }
+    .cardsC {
+      border: 3px solid #ffffff;
+      border-radius: 10px;
+      padding: 20px;
+      background-color: #b1868c1f;
+      animation: fadeInLeft;
+      animation-duration: 1s;
+      box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+      h2{
+        border-bottom: 2px solid #dbdbdb;
+        font-weight: 700;
+      }
+      h3{
+        font-weight: 400;
+      }
+
+      img {
+        border-radius: 10px;
+        width: 700px;
+        cursor: pointer;
+        &:hover {
+          opacity: 0.5;
+          transition: 1s;
         }
+        @media (max-width: 600px) {
+          width: 100%;
+        }
+      }
+      .textoCoding {
+        display: flex;
+        align-items: center;
+        gap: 20px;
+        .unico {
+          width: 20px;
+        }
+        img {
+          width: 30px;
+        }
+      }
     }
+  }
 }
