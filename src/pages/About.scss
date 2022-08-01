@@ -1,17 +1,18 @@
 .todoAbout{
-    margin-top: 50px;
+    margin-top: 100px;
     font-family: 'Assistant', sans-serif;
     display: flex;
     align-items: center;
     justify-content: center;
     @media (max-width: 700px) {
         height: auto;
+        margin-top: 50px;
       }
     
     img{
         width: 90%;
         margin: 20px;
-        border-radius: 20px;
+        
         border: 3px solid white;
         @media (max-width: 700px) {
             width: 100%;
@@ -29,12 +30,13 @@
         width: 80%;
         display: flex;
         flex-wrap: wrap;
-        justify-content: space-around;
+        justify-content: center;
         align-items: center;
+        gap: 50px;
         border: 3px solid #ffffff;
-        border-radius: 20px;
+        
         padding: 20px;
-        background-color:#b1868c1f ;
+        background-color:#cccccc65 ;
         animation: fadeInLeft;
         animation-duration: 1s;
         @media (max-width: 600px) {

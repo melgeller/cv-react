@@ -6,7 +6,7 @@ const About = () => {
     <div className='todoAbout'>
       <div className='form'>
         <div className='foto'>
-          <img src='../../assets/foti.jpg' alt='' />
+          <img src='../../assets/rere.jpg' alt='' />
         </div>
         <div className='textoAbout'>
           <h2>Hi!</h2>

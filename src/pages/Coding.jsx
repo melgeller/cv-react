@@ -17,7 +17,7 @@ const Coding = () => {
     </div>
     <div className='cardsC'>
     <img src="../../assets/store.png" alt=""/>
-    <h2>PokeAPI</h2>
+    <h2>Shop Online</h2>
     <h3>Created with HTML and CSS</h3>
     <div className='textoCoding'>
         <a href="https://github.com/melgeller/shop-css"><img src="../assets/git.png" alt=""/></a>
