@@ -28,7 +28,7 @@ const Fotos = () => {
     <img src="../../assets/anal2.jpg" alt=""/>
     </div>
     <div className='tarjeta'>
-    <img src="../../assets/sergio2.jpg" alt=""/>
+    <img src="../../assets/sofi.jpg" alt=""/>
     </div>
     <div className='tarjeta'>
     <img src="../../assets/anal4.jpg" alt=""/>
@@ -41,6 +41,15 @@ const Fotos = () => {
     </div>
     <div className='tarjeta'>
     <img src="../../assets/anal3.jpg" alt=""/>
+    </div>
+    <div className='tarjeta'>
+    <img src="../../assets/sergio2.jpg" alt=""/>
+    </div>
+    <div className='tarjeta'>
+    <img src="../../assets/nuria.jpg" alt=""/>
+    </div>
+    <div className='tarjeta'>
+    <img src="../../assets/art.jpg" alt=""/>
     </div>
     </div>
 

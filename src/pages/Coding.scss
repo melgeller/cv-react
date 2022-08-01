@@ -1,0 +1,34 @@
+.codingGallery{
+    margin: 50px;
+    @media (max-width: 600px) {
+        margin: 20px;
+      }
+    .codingCards{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        gap: 20px;
+
+        .cardsC{
+            
+            img{
+                width: 700px;
+                @media (max-width: 600px) {
+                    width: 100%;
+                  }
+            }
+            .textoCoding{
+               display: flex;
+               align-items: center;
+               gap: 20px;
+               .unico{
+                width: 20px;
+               } 
+                img{
+                    width: 30px;
+                    
+                }
+            }
+        }
+    }
+}
