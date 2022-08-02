@@ -24,6 +24,12 @@ export const HOBBIES = {
         doscuatro: "../assets/more/witcher.jpg",
         doscinco: "../assets/more/bloodborne.jpg"
 
+    },
+    description: {
+        title: "Hobbies",
+        paragraph1: "If you are here is because you want to know more about me",
+        paragraph2: "I have compiled 10 of my favourite albums and 10 of my favourite videogames",
+        paragraph3: "This section is currently under construction, you will have more buttons in the future 😊"
     }
 }
 

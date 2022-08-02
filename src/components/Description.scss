@@ -1,0 +1,14 @@
+.introTexto{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Assistant', sans-serif;
+    padding-top: 50px;
+    @media (max-width: 600px) {
+        margin-left: 20px;
+        margin-right: 20px;
+        text-align: justify;
+        text-align: center;
+      }
+}
