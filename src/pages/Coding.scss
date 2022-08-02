@@ -31,8 +31,9 @@
         width: 800px;
         cursor: pointer;
         &:hover {
-          opacity: 0.5;
           transition: 1s;
+          filter: brightness(40%);
+          
         }
         @media (max-width: 600px) {
           width: 100%;

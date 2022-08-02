@@ -1,0 +1,26 @@
+.botones{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    @media (max-width: 600px) {
+        gap: 20px;
+      }
+    button{
+        border: 2px solid white;
+        box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+        background-color: #F7F7F7;
+        width: 150px;
+        border-radius: 20px;
+        cursor: pointer;
+        
+        h1{
+            font-size: 20px;
+            font-weight: 600;
+            color: #a1a1a1;
+            
+        }
+        }
+}
