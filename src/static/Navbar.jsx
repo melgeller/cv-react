@@ -7,7 +7,7 @@ const Navbar = () => {
     
       <section class="top-nav">
     <div>
-    <img src="../assets/logogris.png" alt="logo"/>
+    <img src="../assets/logo.png" alt="logo"/>
     </div>
     <input id="menu-toggle" type="checkbox" />
     <label class='menu-button-container' for="menu-toggle">
