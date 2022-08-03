@@ -30,11 +30,14 @@
         
         width: 800px;
         cursor: pointer;
-        &:hover {
-          transition: 1s;
-          filter: brightness(40%);
-          
+        @media (min-width: 600px) {
+          &:hover {
+            transition: 1s;
+            filter: brightness(40%);
+            
+          }
         }
+        
         @media (max-width: 600px) {
           width: 100%;
         }
