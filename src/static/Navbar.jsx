@@ -14,11 +14,11 @@ const Navbar = () => {
     <div class='menu-button'></div>
   </label>
     <ul class="menu">
-    <li><NavLink to='/'>Home</NavLink></li>
-      <li><NavLink to='/about'>About</NavLink></li>
-      <li><NavLink to='/gallery'>Photography</NavLink></li>
-      <li><NavLink to='/projects'>Coding</NavLink></li>
-      <li><NavLink to='/more'>More</NavLink></li>
+    <li><NavLink onClick={() => {document.getElementById("menu-toggle").click()}} to='/'>Home</NavLink></li>
+      <li><NavLink onClick={() => {document.getElementById("menu-toggle").click()}} to='/about'>About</NavLink></li>
+      <li><NavLink onClick={() => {document.getElementById("menu-toggle").click()}} to='/gallery'>Photography</NavLink></li>
+      <li><NavLink onClick={() => {document.getElementById("menu-toggle").click()}} to='/projects'>Coding</NavLink></li>
+      <li><NavLink onClick={() => {document.getElementById("menu-toggle").click()}} to='/more'>More</NavLink></li>
       <li><a href="https://www.linkedin.com/in/melgeller-foto/"><img src="../assets/linkedin.png" alt="link"/></a></li>
       <li><a href="https://github.com/melgeller"><img src="../assets/git.png" alt="link"/></a></li>
     </ul>
