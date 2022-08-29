@@ -51,9 +51,6 @@ const Fotos = () => {
     <div className='tarjeta'>
     <img src="../../assets/art.jpg" alt=""/>
     </div>
-    <div className='tarjeta'>
-    <img src="../../assets/art.jpg" alt=""/>
-    </div>
     </div>
 
     </div>
