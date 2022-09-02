@@ -14,11 +14,11 @@ const Navbar = () => {
     <div class='menu-button'></div>
   </label>
     <ul class="menu">
-    <li><NavLink onClick={() => {document.getElementById("menu-toggle").click()}} to='/'>Home</NavLink></li>
-      <li><NavLink onClick={() => {document.getElementById("menu-toggle").click()}} to='/about'>About</NavLink></li>
-      <li><NavLink onClick={() => {document.getElementById("menu-toggle").click()}} to='/gallery'>Photography</NavLink></li>
-      <li><NavLink onClick={() => {document.getElementById("menu-toggle").click()}} to='/projects'>Coding</NavLink></li>
-      <li><NavLink onClick={() => {document.getElementById("menu-toggle").click()}} to='/more'>More</NavLink></li>
+    <li><NavLink onClick={() => {document.getElementById("menu-toggle").click()}} to='/'>HOME</NavLink></li>
+      <li><NavLink onClick={() => {document.getElementById("menu-toggle").click()}} to='/about'>ABOUT</NavLink></li>
+      <li><NavLink onClick={() => {document.getElementById("menu-toggle").click()}} to='/gallery'>PHOTOGRAPHY</NavLink></li>
+      <li><NavLink onClick={() => {document.getElementById("menu-toggle").click()}} to='/projects'>CODING</NavLink></li>
+      <li><NavLink onClick={() => {document.getElementById("menu-toggle").click()}} to='/more'>MORE</NavLink></li>
       <li><a href="https://www.linkedin.com/in/melgeller-foto/"><img src="../assets/linkedin.png" alt="link"/></a></li>
       <li><a href="https://github.com/melgeller"><img src="../assets/git.png" alt="link"/></a></li>
     </ul>
