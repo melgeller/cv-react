@@ -94,8 +94,19 @@ const Coding = () => {
     <div className='textoCoding'>
         <a href="https://github.com/melgeller/react-silenthill"><img src="../assets/git.png" alt=""/></a>
         <a href="https://www.linkedin.com/posts/melgeller-foto_silenthill-react-node-activity-6947998084144504833-kPuE?utm_source=linkedin_share&utm_medium=member_desktop_web"><img src="../assets/linkedin.png" alt=""/></a>
-    </div>
 
+    </div>
+    </div>
+    <div className='cardsC'>
+    <a href="https://cv-react-silvia.vercel.app/assets/clocks.png"><img src="../../assets/clocks.png" alt=""/></a>
+    
+    <h2>Countdown / Clock / Stopwatch</h2>
+    <h3>Created with React, JavaScript and SCSS</h3>
+    <div className='textoCoding'>
+        <a href="https://github.com/melgeller/react-clocks"><img src="../assets/git.png" alt=""/></a>
+        <a href="https://www.linkedin.com/posts/melgeller-foto_react-github-activity-6944698192122793984-bf6f?utm_source=share&utm_medium=member_desktop"><img src="../assets/linkedin.png" alt=""/></a>
+        <a href="https://react-clocks-eight.vercel.app/"><img className='unico' src="../assets/link.png" alt=""/></a>
+    </div>
     </div>
 
     </div>
