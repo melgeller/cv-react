@@ -6,12 +6,12 @@ const Coding = () => {
     <div className='codingGallery'>
     <div className='codingCards'>
     <div className='cardsC'>
-    <a href="https://cv-react-silvia.vercel.app/assets/ff.png"><img src="../../assets/ff.png" alt=""/></a>
-    <h2>Final Fantasy Fanpage</h2>
-    <h3>Created with HTML and CSS</h3>
+    <a href="https://cv-react-silvia.vercel.app/assets/deannaigh.png"><img src="../../assets/deannaigh.png" alt=""/></a>
+    <h2>Deannaigh Design Online Store</h2>
+    <h3>Created with React, SCSS and Javascript</h3>
     <div className='textoCoding'>
-        <a href="https://github.com/melgeller/final-fantasy-page"><img src="../assets/git.png" alt=""/></a>
-        <a href="https://www.linkedin.com/posts/melgeller-foto_hola-de-nuevo-el-tercer-d%C3%ADa-de-clase-activity-6930947779242418176-rvZX?utm_source=linkedin_share&utm_medium=member_desktop_web"><img src="../assets/linkedin.png" alt=""/></a>
+        <a href="https://deannaighdesign.vercel.app/"><img src="../assets/git.png" alt=""/></a>
+        <a href="https://www.linkedin.com/posts/melgeller-foto_deannaighdesign-react-activity-6975720178370113537-6Rdf?utm_source=share&utm_medium=member_desktop"><img src="../assets/linkedin.png" alt=""/></a>
         <a href="https://melgeller.github.io/final-fantasy-page/">
         <img className='unico' src="../assets/link.png" alt=""/></a>
     </div>
@@ -58,7 +58,17 @@ const Coding = () => {
         <a href="https://github.com/melgeller/angular-animalcrossing"><img src="../assets/git.png" alt=""/></a>
         <a href="https://www.linkedin.com/posts/melgeller-foto_angular-animalcrossing-activity-6939974100106772480-BX4q?utm_source=linkedin_share&utm_medium=member_desktop_web"><img src="../assets/linkedin.png" alt=""/></a>
     </div>
-
+    </div>
+    <div className='cardsC'>
+    <a href="https://cv-react-silvia.vercel.app/assets/ff.png"><img src="../../assets/ff.png" alt=""/></a>
+    <h2>Final Fantasy Fanpage</h2>
+    <h3>Created with HTML and CSS</h3>
+    <div className='textoCoding'>
+        <a href="https://github.com/melgeller/final-fantasy-page"><img src="../assets/git.png" alt=""/></a>
+        <a href="https://www.linkedin.com/posts/melgeller-foto_hola-de-nuevo-el-tercer-d%C3%ADa-de-clase-activity-6930947779242418176-rvZX?utm_source=linkedin_share&utm_medium=member_desktop_web"><img src="../assets/linkedin.png" alt=""/></a>
+        <a href="https://melgeller.github.io/final-fantasy-page/">
+        <img className='unico' src="../assets/link.png" alt=""/></a>
+    </div>
     </div>
     <div className='cardsC'>
     <a href="https://cv-react-silvia.vercel.app/assets/ghibli.png"><img src="../../assets/ghibli.png" alt=""/></a>
