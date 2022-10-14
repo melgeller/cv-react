@@ -23,7 +23,7 @@ const About = () => {
           <div className='paragraph'>
             <p className='icons'>🎂 1990</p>
             <p className='icons'>🌍 Madrid / Murcia</p>
-            <p className='icons'>📧 melgeller.foto@gmail.com</p>
+            <p className='icons'>📧 melgeller.foto@gmail.com </p>
           </div>
           <div className='paragraph'>
             <p>
@@ -49,7 +49,7 @@ const About = () => {
               HTML
             </p>
             <p>
-              CSS / SCSS
+              CSS and SCSS
             </p>
             <p>
               MongoDB
