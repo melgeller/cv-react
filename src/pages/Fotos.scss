@@ -24,6 +24,7 @@
         animation-duration: 1s;
         img{
             max-height: 300px;
+            box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
             cursor: pointer;
             @media (max-width: 700px) {
                 max-height: 460px

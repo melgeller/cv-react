@@ -8,7 +8,7 @@ export const HOBBIES = {
         dosuno: "https://i.discogs.com/Du-ERmtnVUqTrtgc8H7JofA4XCC8Vi-VcXmlaYlBado/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4OTQ4/Mi0xNTA5NzUwOTgy/LTMyOTYuanBlZw.jpeg",
         dosdos: "https://i.discogs.com/TDGD6-hFpBD7jVxfuJV9ffYg8O88AcofVNGipAygzUU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNzAw/NS0xMTg2MjU5MDM1/LmpwZWc.jpeg",
         dostres: "https://m.media-amazon.com/images/I/71bsHTr6idL._SL1500_.jpg",
-        doscuatro: "https://upload.wikimedia.org/wikipedia/en/e/e7/GSL126_cover_temp_461.png",
+        doscuatro: "../assets/more/nmh.jpg",
         doscinco: "https://m.media-amazon.com/images/I/61VJjmbjZOL.jpg"
     },
 

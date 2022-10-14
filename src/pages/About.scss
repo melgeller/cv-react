@@ -10,10 +10,9 @@
       }
     
     img{
-        width: 90%;
+        height: 600px;
         margin: 20px;
-        
-        border: 3px solid white;
+        border: 30px solid white;
         @media (max-width: 700px) {
             width: 100%;
             margin: 0;
@@ -21,13 +20,16 @@
     }
     .foto{
         width: 500px;
+        display: flex;
+        justify-content: center;
+        
         @media (max-width: 700px) {
             width: auto;
           }
         
     }
     .form{
-        width: 80%;
+        width: 70%;
         display: flex;
         flex-wrap: wrap;
         justify-content: center;
@@ -45,16 +47,59 @@
     }
     .textoAbout{
         width: 500px;
+        height: 100%;
         margin-left: 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
         @media (max-width: 700px) {
             width: auto;
           }
           h3{
-            margin-bottom: 2px;
+            margin:0
           }
           p{
-            margin-top: 0;
+            margin: 0;
+            
+          }
+          .icons{
+            font-weight: 600;
+          }
+          .paragraph{
             margin-bottom: 20px;
+            .melgeller{
+              font-weight: 600;
+            }
+          }
+          
+          .textoIdiomas{
+            display: flex;
+            align-items: center;
+            h2{
+              margin: 0;
+            }
+            height: 70px;
+            #spin {
+              color:black;
+            }
+            #spin:after {
+              content:"";
+              animation: spin 15s linear infinite;
+            }
+            @keyframes spin {
+              0% { content:"Hola";}
+              10% { content:"Hello";}
+              20% { content:"你好";}
+              30% { content:"Hallo";}
+              40% { content:"Salut";}
+              50% { content: "مرحبا";}
+              60% { content: "Привет";}
+              70% { content: "Olá";}
+              80% { content: "안녕";}
+              90% { content: "こんにちは";}
+              100% { content: "Hola";}
+            }
+
           }
     }
 }
