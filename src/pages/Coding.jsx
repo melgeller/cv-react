@@ -6,18 +6,18 @@ const Coding = () => {
     <div className='codingGallery'>
     <div className='codingCards'>
     <div className='cardsC'>
-    <a href="https://cv-react-silvia.vercel.app/assets/deannaigh.png"><img src="../../assets/deannaigh.png" alt=""/></a>
+    <a href="https://melgeller-portfolio.vercel.app/assets/deannaigh.png"><img src="../../assets/deannaigh.png" alt=""/></a>
     <h2>Deannaigh Design Online Store</h2>
     <h3>Created with React, SCSS and Javascript</h3>
     <div className='textoCoding'>
         <a href="https://deannaighdesign.vercel.app/"><img src="../assets/git.png" alt=""/></a>
         <a href="https://www.linkedin.com/posts/melgeller-foto_deannaighdesign-react-activity-6975720178370113537-6Rdf?utm_source=share&utm_medium=member_desktop"><img src="../assets/linkedin.png" alt=""/></a>
-        <a href="https://melgeller.github.io/final-fantasy-page/">
+        <a href="https://deannaighdesign.vercel.app/">
         <img className='unico' src="../assets/link.png" alt=""/></a>
     </div>
     </div>
     <div className='cardsC'>
-    <a href="https://cv-react-silvia.vercel.app/assets/store.png"><img src="../../assets/store.png" alt=""/></a>
+    <a href="https://melgeller-portfolio.vercel.app/assets/store.png"><img src="../../assets/store.png" alt=""/></a>
     <h2>Shop Online</h2>
     <h3>Created with HTML and CSS</h3>
     <div className='textoCoding'>
@@ -27,7 +27,7 @@ const Coding = () => {
     </div>
     </div>
     <div className='cardsC'>
-    <a href="https://cv-react-silvia.vercel.app/assets/pokeapi.png"><img src="../../assets/pokeapi.png" alt=""/></a>
+    <a href="https://melgeller-portfolio.vercel.app/assets/pokeapi.png"><img src="../../assets/pokeapi.png" alt=""/></a>
     
     <h2>PokeAPI</h2>
     <h3>Created with JavaScript, HTML and SCSS.</h3>
@@ -40,7 +40,7 @@ const Coding = () => {
 
     </div>
     <div className='cardsC'>
-    <a href="https://cv-react-silvia.vercel.app/assets/net.png"><img src="../../assets/net.png" alt=""/></a>
+    <a href="https://melgeller-portfolio.vercel.app/assets/net.png"><img src="../../assets/net.png" alt=""/></a>
     <h2>Netflix</h2>
     <h3>Created with Angular, HTML, JavaScript and SCSS</h3>
     <div className='textoCoding'>
@@ -50,7 +50,7 @@ const Coding = () => {
 
     </div>
     <div className='cardsC'>
-    <a href="https://cv-react-silvia.vercel.app/assets/animal.png"><img src="../../assets/animal.png" alt=""/></a>
+    <a href="https://melgeller-portfolio.vercel.app/assets/animal.png"><img src="../../assets/animal.png" alt=""/></a>
     
     <h2>Animal Crossing Fanpage</h2>
     <h3>Created with Angular, JavaScript and SCSS</h3>
@@ -60,7 +60,7 @@ const Coding = () => {
     </div>
     </div>
     <div className='cardsC'>
-    <a href="https://cv-react-silvia.vercel.app/assets/ff.png"><img src="../../assets/ff.png" alt=""/></a>
+    <a href="https://melgeller-portfolio.vercel.app/assets/ff.png"><img src="../../assets/ff.png" alt=""/></a>
     <h2>Final Fantasy Fanpage</h2>
     <h3>Created with HTML and CSS</h3>
     <div className='textoCoding'>
@@ -71,7 +71,7 @@ const Coding = () => {
     </div>
     </div>
     <div className='cardsC'>
-    <a href="https://cv-react-silvia.vercel.app/assets/ghibli.png"><img src="../../assets/ghibli.png" alt=""/></a>
+    <a href="https://melgeller-portfolio.vercel.app/assets/ghibli.png"><img src="../../assets/ghibli.png" alt=""/></a>
     
     <h2>Studio Ghibli API</h2>
     <h3>Created with Angular, JavaScript and SCSS</h3>
@@ -84,7 +84,7 @@ const Coding = () => {
 
     </div>
     <div className='cardsC'>
-    <a href="https://cv-react-silvia.vercel.app/assets/rick.png"><img src="../../assets/rick.png" alt=""/></a>
+    <a href="https://melgeller-portfolio.vercel.app/assets/rick.png"><img src="../../assets/rick.png" alt=""/></a>
     
     <h2>Rick and Morty API</h2>
     <h3>Created with Authorization, React, JavaScript and SCSS</h3>
@@ -96,7 +96,7 @@ const Coding = () => {
 
     </div>
     <div className='cardsC'>
-    <a href="https://cv-react-silvia.vercel.app/assets/sh.png"><img src="../../assets/sh.png" alt=""/></a>
+    <a href="https://melgeller-portfolio.vercel.app/assets/sh.png"><img src="../../assets/sh.png" alt=""/></a>
     
     <h2>Silent Hill API</h2>
     <h3>Created with Authorization, React, NodeJS, MongoDB, JavaScript and SCSS</h3>
@@ -108,7 +108,7 @@ const Coding = () => {
     </div>
     </div>
     <div className='cardsC'>
-    <a href="https://cv-react-silvia.vercel.app/assets/clocks.png"><img src="../../assets/clocks.png" alt=""/></a>
+    <a href="https://melgeller-portfolio.vercel.app/assets/clocks.png"><img src="../../assets/clocks.png" alt=""/></a>
     
     <h2>Countdown / Clock / Stopwatch</h2>
     <h3>Created with React, JavaScript and SCSS</h3>
