@@ -57,6 +57,7 @@ const About = () => {
             <img src="../../assets/iconos/campaign.png" alt=""/>
             <img src="../../assets/iconos/target.jpg" alt=""/>
             <img src="../../assets/iconos/aa.png" alt=""/>
+            <img src="../../assets/iconos/git.png" alt=""/>
             </div>
           </div>
         </div>
