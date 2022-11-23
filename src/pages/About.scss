@@ -9,7 +9,7 @@
         margin-top: 50px;
       }
     
-    img{
+    .profilePic{
         height: 600px;
         margin: 20px;
         border: 30px solid white;
@@ -70,7 +70,18 @@
               font-weight: 600;
             }
           }
-          
+          .iconos{
+            margin-top: 20px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            img{
+              height: 40px;
+            }
+          }
+
+
+
           .textoIdiomas{
             display: flex;
             align-items: center;
