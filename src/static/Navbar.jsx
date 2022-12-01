@@ -19,7 +19,7 @@ const Navbar = () => {
       <li><NavLink onClick={() => {document.getElementById("menu-toggle").click()}} to='/gallery'>Photography</NavLink></li>
       <li><NavLink onClick={() => {document.getElementById("menu-toggle").click()}} to='/projects'>Coding</NavLink></li>
       <li><NavLink onClick={() => {document.getElementById("menu-toggle").click()}} to='/more'>More</NavLink></li>
-      <li><a href="https://www.linkedin.com/in/melgeller-foto/"><img src="../assets/linkedin.png" alt="link"/></a></li>
+      <li><a href="https://www.linkedin.com/in/melgeller-foto-developer/"><img src="../assets/linkedin.png" alt="link"/></a></li>
       <li><a href="https://github.com/melgeller"><img src="../assets/git.png" alt="link"/></a></li>
     </ul>
   </section>
