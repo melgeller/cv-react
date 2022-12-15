@@ -10,9 +10,9 @@ const Coding = () => {
     <h2>CV on MacOs 9</h2>
     <h3>¡Coming soon!</h3>
     <div className='textoCoding'>
-        <a href="https://i.pinimg.com/originals/d7/69/9f/d7699fe324036f1afa98bbbab4ff82d6.jpg"><img src="../assets/git.png" alt=""/></a>
+        <a href="https://github.com/melgeller/cv-macOs9"><img src="../assets/git.png" alt=""/></a>
         <a href="https://i.pinimg.com/originals/d7/69/9f/d7699fe324036f1afa98bbbab4ff82d6.jpg"><img src="../assets/linkedin.png" alt=""/></a>
-        <a href="https://i.pinimg.com/originals/d7/69/9f/d7699fe324036f1afa98bbbab4ff82d6.jpg">
+        <a href="https://macos9-desktop.vercel.app/">
         <img className='unico' src="../assets/link.png" alt=""/></a>
     </div>
     </div>
