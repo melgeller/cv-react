@@ -8,7 +8,7 @@ const Coding = () => {
     <div className='cardsC'>
     <a href="https://melgeller-portfolio.vercel.app/assets/prueba3.png"><img src="../../assets/prueba3.png" alt=""/></a>
     <h2>CV on MacOs 9</h2>
-    <h3>¡Coming soon!</h3>
+    <h3>Created with React, SCSS and Javascript.</h3>
     <div className='textoCoding'>
         <a href="https://github.com/melgeller/cv-macOs9"><img src="../assets/git.png" alt=""/></a>
         <a href="https://i.pinimg.com/originals/d7/69/9f/d7699fe324036f1afa98bbbab4ff82d6.jpg"><img src="../assets/linkedin.png" alt=""/></a>
